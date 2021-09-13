@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gcazaciuc/tiny-state.git"
+    "url": "git+https://github.com/gcazaciuc/tiny-frp.git"
   },
   "author": "Cazaciuc Gabriel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gcazaciuc/tiny-state/issues"
+    "url": "https://github.com/gcazaciuc/tiny-frp/issues"
   },
-  "homepage": "https://github.com/gcazaciuc/tiny-state#readme"
+  "homepage": "https://github.com/gcazaciuc/tiny-frp#readme"
 }
