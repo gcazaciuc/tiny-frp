@@ -42,7 +42,7 @@ export function effect(fn) {
     };
     
     cleanup();
-    const stackEntry = { run, cleanup: [] };
+    const stackEntry = { run, cleanup: [], fn };
     stack.push(stackEntry);
     run();
     fn.__cleanup__ = stackEntry.cleanup;
