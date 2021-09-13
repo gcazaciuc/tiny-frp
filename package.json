@@ -2,7 +2,7 @@
   "name": "tiny-frp",
   "version": "1.0.0",
   "description": "A tiny state management library built for ProgrammersWeek 2021",
-  "main": "src/tfrp.js",
+  "main": "dist/bundle.js",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.15.5",
