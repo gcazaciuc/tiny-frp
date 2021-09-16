@@ -7,7 +7,7 @@ Originally meant to illustrate the points about transparent reactive programming
 ## API
 
 The library exports 3 functions: `observable`, `effect` and `computed` , the building blocks of any reactive library.
-It does not offer wrappers around various used land frameworks since their implementation it's pretty simple and can be easily achieved using used land code.
+It does not offer wrappers around various user land frameworks since their implementation it's pretty simple and can be easily achieved using user land code.
 
 ### observable(data)
 
